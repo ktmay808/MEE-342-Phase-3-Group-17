@@ -1,5 +1,3 @@
-README.md
-
 # MEE 342 Phase 3 - Group 17
 
 ## Overview
